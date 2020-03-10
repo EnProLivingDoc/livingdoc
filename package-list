@@ -47,6 +47,7 @@ org.livingdoc.repositories.config
 org.livingdoc.repositories.confluence
 org.livingdoc.repositories.file
 org.livingdoc.repositories.format
+org.livingdoc.repositories.git
 org.livingdoc.repositories.model
 org.livingdoc.repositories.model.decisiontable
 org.livingdoc.repositories.model.scenario
